@@ -16,6 +16,7 @@ Programas:
 
 Materiales:
 - Protoboard
+- Arudino UNO
 - LM35 (sensor de tempatura)
 - Buzzer (Zumbador)
 - Cables
